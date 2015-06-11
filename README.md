@@ -1,7 +1,7 @@
 # ChristinaBillFinalProjectPart3
 Babble Game
 
-This is the Java final project for Software Development II.  
+This is the Java final project for Software Development I.  
 
 A single-player ("solitaire") take on the game of Scrabble.  
 Conceptually, the player tries to make words from a random set of seven letters (called "Tiles").  
