@@ -13,6 +13,8 @@ The tile bag initially contains a set of tiles based on the letters and points i
 
 Environment: 
   IDE: Java/Eclipse
+  
+  
 Developed in three parts:
   Part 1: Game Engine/Text Interface based off UML class diagram
   Part 2: JUnit Test
